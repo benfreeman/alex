@@ -1,0 +1,2 @@
+class AlexController < ApplicationController
+end
